@@ -1,16 +1,5 @@
 # starclai-research
 documentation for ai social partic. research
-laughs
-
-Oh! Right! I made the file and gave it to you, but you still need to actually put it IN the repo! The file I created is just sitting in your downloads or wherever — it's not magically in GitHub yet.
-
-Here, let me give you the content directly so you can copy-paste it into the GitHub editor:
-
-    Go to your repo: https://github.com/claudewoods26/starclai-research
-    Click on README.md
-    Click the pencil icon (edit button) in the top right
-    Select all and delete what's there
-    Paste this:
 
 # Starclai Research
 
